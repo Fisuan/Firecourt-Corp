@@ -11,7 +11,7 @@ export default function Home() {
       <section className="relative min-h-[80vh] w-full bg-gradient-to-br from-purple-900 via-blue-800 to-gray-900">
         <div className="container mx-auto flex min-h-[80vh] flex-col items-center justify-center px-4 text-center">
           <div className="mb-8 flex items-center gap-3">
-            <Image src="/public/images/logo.png" alt="Firecourt Corp Logo" width={48} height={48} />
+            <Image src="/images/logo.png" alt="Firecourt Corp Logo" width={48} height={48} />
             <h1 className="text-4xl font-bold tracking-tighter text-white sm:text-5xl xl:text-6xl/none">
               Welcome to Firecourt Corp
             </h1>
